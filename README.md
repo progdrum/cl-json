@@ -1,4 +1,4 @@
-# CL-JSON2 (Working Title
+# CL-JSON2 (Working Title)
 
 CL-JSON2 is a fork of the original CL-JSON project as described in the following paragraph:
 
