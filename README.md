@@ -1,4 +1,6 @@
-# CL-JSON
+# CL-JSON2 (Working Title
+
+CL-JSON2 is a fork of the original CL-JSON project as described in the following paragraph:
 
 CL-JSON provides an encoder of Lisp objects to JSON format and a
 corresponding decoder of JSON data to Lisp objects. Both the encoder
@@ -14,11 +16,8 @@ testcases includes the JSON_checker tests.
 * 2009 New alternative encoder, the explicit sexp-encoder.
 * 2011 Json-rpc version 2 format by Robert Goldman.
 * 2012 Move from darcs to git.
+* 2015 CL-JSON2 forked by progdrum
 
-## Licence
+## License
 
-MIT.
-
-## Documentation
-
-Documentation is at the project page on [common-lisp.net](http://common-lisp.net/project/cl-json/).
+MIT
